@@ -1,4 +1,4 @@
-def get_list(type=int):
+﻿def get_list(type=int):
     return list(map(type, input().split()))
 
 def get_int():
