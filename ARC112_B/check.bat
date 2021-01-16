@@ -1,0 +1,2 @@
+python batch.py
+pause
